@@ -1,0 +1,13 @@
+{
+  "itemGroup.sonnysupgrades": "Example Mod Tab",
+  "block.sonnysupgrades.example_block": "Example Block",
+  "item.sonnysupgrades.example_item": "Example Item",
+
+  "sonnysupgrades.configuration.title": "Sonny's Upgrades Configs",
+  "sonnysupgrades.configuration.section.sonnysupgrades.common.toml": "Sonny's Upgrades Configs",
+  "sonnysupgrades.configuration.section.sonnysupgrades.common.toml.title": "Sonny's Upgrades Configs",
+  "sonnysupgrades.configuration.items": "Item List",
+  "sonnysupgrades.configuration.logDirtBlock": "Log Dirt Block",
+  "sonnysupgrades.configuration.magicNumberIntroduction": "Magic Number Text",
+  "sonnysupgrades.configuration.magicNumber": "Magic Number"
+}
